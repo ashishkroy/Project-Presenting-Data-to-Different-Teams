@@ -1,0 +1,1 @@
+The dataset of this project, titled "Unclean Customer Transaction Data," contains synthetic data mimicking customer transaction records. It includes various numerical features that are uncleaned and require preprocessing techniques to enhance data quality.
